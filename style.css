@@ -9,7 +9,7 @@ body {
   display: flex;
   height: 100vh;
   justify-content: center;
-  background-image: linear-gradient(#FFD700, #FFD700, #00001, #00001);
+  background-image: linear-gradient(#FFFFF, #00000, #00000, #FFFFF);
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px;
+  gap: 21px;
 }
 
 .header img {
