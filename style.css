@@ -9,7 +9,7 @@ body {
   display: flex;
   height: 100vh;
   justify-content: center;
-  background-image: linear-gradient(#FFFFF, #00000, #00000, #FFFFF);
+  background-image: linear-gradient(#00a9a5, #0b5351, #0b5351, #00a9a5);
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 21px;
+  gap: 20px;
 }
 
 .header img {
@@ -45,7 +45,7 @@ body {
 .bio {
   text-align: center;
   font-family: "Poppins";
-  font-size: 25px;
+  font-size: 18px;
   color: white;
 }
 
