@@ -9,7 +9,7 @@ body {
   display: flex;
   height: 100vh;
   justify-content: center;
-  background-image: linear-gradient(#FFD700, #FFD700, #FFDF00, #FFDF00);
+  background-image: linear-gradient(#FFD700, #0000, #FFDF00, #0000);
 }
 
 .container {
